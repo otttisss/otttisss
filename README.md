@@ -1,4 +1,4 @@
-## Hi there I'm Efim 👋.
+## Hi there I'm Efim 👋
 
 ### Welcome to my profile
 
