@@ -16,3 +16,7 @@
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 
+
+### Leetcode Stats:
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/otttisss?theme=dark)
