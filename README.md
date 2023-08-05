@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## My name is Efim.
 
-- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/otttisss) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:efimotis@gmail.com)
+- :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-otttisss-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/otttisss) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:efimotis@gmail.com)
 
 ### Languages and Tools:
 
