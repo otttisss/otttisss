@@ -1,6 +1,6 @@
 ## Hi there I'm Efim 👋
 
-### Welcome to my profile
+### Welcome to my profile 👀
 
 - :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-otttisss-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/otttisss) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:efimotis@gmail.com)
 
@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 
-### Github stat
+### Github Stats:
 
 <table>
   <tr>
@@ -37,5 +37,3 @@
 ### Leetcode Stats:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/otttisss?theme=dark)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=otttisss)
