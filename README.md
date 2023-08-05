@@ -1,4 +1,5 @@
 ### Hi there 👋
+## My name is Efim. 
 
 ### Languages and Tools:
 
@@ -15,6 +16,10 @@
 
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
+
+### Github stat
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=otttisss)](https://github.com/otttisss/github-readme-stats)
 
 
 ### Leetcode Stats:
