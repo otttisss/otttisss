@@ -37,3 +37,7 @@
 ### Leetcode Stats:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/otttisss?theme=dark)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=otttisss.otttisss)
+
+
