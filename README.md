@@ -38,7 +38,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/otttisss?theme=dark)
 
-<p align="center">
+<p align="left">
   <a href="#">
       <img src="https://api.visitorbadge.io/api/VisitorHit?user=otttisss&repo=otttisss&countColor=%237B1E7A" />
    </a>
