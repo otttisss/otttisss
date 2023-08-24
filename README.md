@@ -1,6 +1,6 @@
 ## Hi there I'm Efim 👋
 
-#### Welcome to my profile 👀. I am a beginner Java developer. Currently, I am learning Java, algorithms, and various frameworks. If you want to collaborate on a project, feel free to contact me!
+#### Welcome to my profile 👀. I am a Java developer. Currently, I am learning Java, algorithms, and various frameworks. If you want to collaborate on a project, feel free to contact me!
 
 - :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-otttisss-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/otttisss) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:efimotis@gmail.com)
 
