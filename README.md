@@ -47,10 +47,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=otttisss&theme=dark&background=000000" alt="GitHub streak" />
+      <img src="https://streak-stats.demolab.com?user=otttisss&theme=dark&background=000000" alt="GitHub streak" />
     </td>
     <td>
-      <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=otttisss&layout=compact&theme=vision-friendly-dark" alt="Top languages" />
+      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otttisss&layout=compact&theme=vision-friendly-dark" alt="Top languages" />
     </td>
   </tr>
 </table>
