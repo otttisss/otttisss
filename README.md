@@ -1,24 +1,25 @@
 ## Hi there I'm Efim 👋
 
-#### Welcome to my profile 👀. I am a Java developer. Currently, I am learning Java, algorithms, and various frameworks. If you want to collaborate on a project, feel free to contact me!
+#### Welcome to my profile 👀. I am a Backend developer (Golang). Currently, If you want to collaborate on a project, feel free to contact me!
 
 - :mailbox: Contacts: [![Telegram Badge](https://img.shields.io/badge/-otttisss-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/otttisss) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:efimotis@gmail.com)
 
 ### Languages and Tools:
 
-![Java](https://img.shields.io/badge/Java-1E7775?style=for-the-badge&logo=java&logoColor=E9D54D)
-![Spring](https://img.shields.io/badge/-Spring-1E7775?style=for-the-badge&logo=Spring)
-![Spring Boot](https://img.shields.io/badge/-Spring_boot-1E7775?style=for-the-badge&logo=SpringBoot)
-![Maven](https://img.shields.io/badge/-Maven-1E7775?style=for-the-badge&logo=apache&logoColor=6296CC)
-![JUnit](https://img.shields.io/badge/-JUnit5-1E7775?style=for-the-badge&logo=JUnit5&logoColor=F88C00)
+![Go](https://img.shields.io/badge/Go-1E7775?style=for-the-badge&logo=go&logoColor=E9D54D)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=postgresql&logoColor=6296CC)
+![Redis](https://img.shields.io/badge/-Redis-1E7775?style=for-the-badge&logo=redis&logoColor=E9D54D)
+![Kafka](https://img.shields.io/badge/-Kafka-1E7775?style=for-the-badge&logo=apachekafka&logoColor=F88C00)
+![Docker](https://img.shields.io/badge/-Docker-1E7775?style=for-the-badge&logo=docker&logoColor=6296CC)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-1E7775?style=for-the-badge&logo=kubernetes&logoColor=F88C00)
+![gRPC](https://img.shields.io/badge/-gRPC-1E7775?style=for-the-badge&logo=grpc&logoColor=E9D54D)
+![REST](https://img.shields.io/badge/-REST_API-1E7775?style=for-the-badge&logo=swagger&logoColor=6296CC)
 
 
-![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
 
 ![Git](https://img.shields.io/badge/-GIT-1E7775?style=for-the-badge&logo=GIT&logoColor=F88C00)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-1E7775?style=for-the-badge&logo=PostgreSQL&logoColor=6296CC)
 
 ### Github Stats:
 
